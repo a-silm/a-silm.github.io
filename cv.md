@@ -14,7 +14,7 @@ Technical Support professional with a strong background in cybersecurity and cus
 # Work experience
 
 ### Technical Support Consultant / SOC L1 - SupportYourApp
-	April 2024 – Present
+April 2024 – Present
 Provide technical support and incident resolution for an enterprise cybersecurity platform, handling complex cases involving email security, endpoint protection, VPN connectivity, and cloud application integrations.
 Investigate and remediate security alerts using a proprietary SIEM tool to analyze logs, correlate events, and identify root causes.
 Collaborate with Tier 2/3 engineering teams to escalate and resolve advanced technical issues.
@@ -40,7 +40,7 @@ Utilized Nmap to perform scans of a target and assess vulnerabilities.
 Set up a home network utilizing Cisco Packet Tracer.
 
 ### Customer Success Lead - Simar
-	December 2022 - April 2024
+December 2022 - April 2024
 * Employ effective problem-solving skills to address complex inquiries and provide innovative solutions to diverse stakeholders.
 * Streamline office operations to maximize efficiency and productivity.
 * Coordinated international travel arrangements for senior management, managing logistics, time zones, and visa requirements.
@@ -56,7 +56,7 @@ Bogota, Colombia
 
 ### Visas department head and customer service - Education First
 November 2017 – June 2021
-	Bogota, Colombia
+Bogota, Colombia
 * Led the visa team, successfully securing visa approvals for our students.
 * Developed strategies to streamline visa application processes, improving efficiency and approval rates.
 * Managed and reviewed all visa applications, collaborating with embassies to ensure compliance.
@@ -64,7 +64,7 @@ November 2017 – June 2021
 
 ### Admissions and customer service and emergency contact - Global Connection
 May 2017 – November 2017
-	Bogota, Colombia
+Bogota, Colombia
 * Processed visa requests for multiple countries.
 * Provided 24/7 emergency support for travelers and students.
 
