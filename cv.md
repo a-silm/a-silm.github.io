@@ -15,12 +15,12 @@ Technical Support professional with a strong background in cybersecurity and cus
 
 ### Technical Support Consultant / SOC L1 - SupportYourApp
 April 2024 – Present
-Provide technical support and incident resolution for an enterprise cybersecurity platform, handling complex cases involving email security, endpoint protection, VPN connectivity, and cloud application integrations.
-Investigate and remediate security alerts using a proprietary SIEM tool to analyze logs, correlate events, and identify root causes.
-Collaborate with Tier 2/3 engineering teams to escalate and resolve advanced technical issues.
-Manage and prioritize tickets through the full incident lifecycle from initial triage to resolution, maintaining clear and professional communication with customers and internal stakeholders.
-Document technical procedures, feature requests, and bug reports to improve product usability and support efficiency.
-Contribute to internal process improvements and customer satisfaction by providing clear, empathetic communication and actionable next steps.
+* Provide technical support and incident resolution for an enterprise cybersecurity platform, handling complex cases involving email security, endpoint protection, VPN connectivity, and cloud application integrations.
+* Investigate and remediate security alerts using a proprietary SIEM tool to analyze logs, correlate events, and identify root causes.
+* Collaborate with Tier 2/3 engineering teams to escalate and resolve advanced technical issues.
+* Manage and prioritize tickets through the full incident lifecycle from initial triage to resolution, maintaining clear and professional communication with customers and internal stakeholders.
+* Document technical procedures, feature requests, and bug reports to improve product usability and support efficiency.
+* Contribute to internal process improvements and customer satisfaction by providing clear, empathetic communication and actionable next steps.
   
 ### Cyber security projects and training
 * Studies:
